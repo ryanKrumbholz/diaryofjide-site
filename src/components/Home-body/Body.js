@@ -5,7 +5,7 @@ import './Body.sass';
 const body = props => (
     <div class="container">
         <div class="about">
-            <img src="https://media13.gimplearn.net/download/file.php/glitch-gif?id=11275"></img>   
+            <img src="https://i.imgur.com/6NjrV8M.gif"></img>   
         </div>
         <div class="hero">
             <h1>MUSIC</h1>
