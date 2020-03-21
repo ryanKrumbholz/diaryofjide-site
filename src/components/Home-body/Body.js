@@ -5,7 +5,7 @@ import './Body.sass';
 const body = props => (
     <div class="container">
         <div class="about">
-            <img src="https://im2.ezgif.com/tmp/ezgif-2-ca9022c3a1dd.gif"></img>   
+            <img src="https://ibb.co/cFyfPQy"></img>   
         </div>
         <h1>MUSIC</h1>
         <div class="hero">
